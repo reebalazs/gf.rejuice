@@ -1,0 +1,13 @@
+
+`gf.rejuice` provides additional tools for developers to use `Juicer` for 
+the compression of Javascript and CSS resources, in the context of python 
+web applications that run via WSGI.
+
+Copyright (c) 2011, by Greenfinity, LLC. and All Contributors
+All rights reserved.
+
+Contributors:
+
+Balazs Ree <ree@greenfinity.hu>
+Rita Bernula <rita.bernula@greenfinity.hu>
+

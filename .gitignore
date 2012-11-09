@@ -1,0 +1,9 @@
+*.pyc
+*.*.cache
+*.pyo
+Data.fs*
+*.egg-info
+*.egg
+.DS_Store
+.*.sw?
+.sw?

@@ -1,0 +1,21 @@
+Changelog for gf.rejuice
+========================
+
+
+0.2 (2011-03-08)
+----------------
+
+- Fix a bug in the resolver lists that prevented to resolve from any other
+  resolver then the first one in the list
+  [ree]
+
+- Small refactoring, fix docs 
+  [ree]
+
+
+0.1 (2011-03-04)
+----------------
+
+- Initial release
+  [ree]
+
